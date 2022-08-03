@@ -1,0 +1,4 @@
+<h2>Der Open Office Excel Zellen Summierer^^</h2>
+<p>Mein vermieter hatt Jahrzente lang schon einige ITler gefragt, ob es denn nicht m&ouml;glich w&auml;re, ein Programm zu entwickeln, welches eine bestimmte Zelle aller Rechnungen (OSD Format) die in einem Ordner liegen, (Er besitzt einen Weinladen) Summieren kann.</p>
+<p>Er bekam immer eine "<strong><em>Das ist nicht m&ouml;glich</em></strong>" Antwort. Da er wei&szlig;, dass ich mich selber mit Programmierung befasse, hat er letzten endes auch mich gefragt. Ich gab ihm ein "<strong><em>Das muss m&ouml;glich sein!</em></strong>" und "<em><strong>Ich werde es versuchen</strong></em>".</p>
+<p>Nach ca 8 Arbeitstunden war das Projekt dann auch beendet und abgeschlossen und der Vermieter ist gl&uuml;cklich =)</p>
